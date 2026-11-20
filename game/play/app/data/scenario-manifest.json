@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "1.0.0",
+  "engineVersion": 24,
+  "generatedAt": "2026-10-28",
+  "dimensions": [
+    "destinationCountry",
+    "industry",
+    "productOrService",
+    "entryMode",
+    "operatingStyle"
+  ],
+  "publicationRule": "Only combinations backed by dated, attributed and professionally reviewed knowledge packs may be enabled for players.",
+  "activePacks": [
+    {
+      "id": "de-pcb-high-layer-ai-server",
+      "status": "playable",
+      "country": "DE",
+      "region": "Saxony / Dresden",
+      "industry": "High-layer-count PCB",
+      "productContext": "AI server interconnect",
+      "entryModes": [
+        "greenfield",
+        "acquisition",
+        "export-and-local-technology-center"
+      ],
+      "operatingStyles": [
+        "speed-first",
+        "headquarters-control",
+        "local-empowerment",
+        "resilience-first"
+      ],
+      "eventCards": 36,
+      "interactionCoverage": 36,
+      "specialChains": [
+        "groundwater-and-social-license"
+      ],
+      "knowledgeStatus": "reviewed-for-training-use-with-source-boundaries",
+      "lastSourceReview": "2026-10-22"
+    }
+  ],
+  "candidatePacks": [],
+  "combinationPolicy": {
+    "allowRuntimeComposition": true,
+    "allowUnreviewedLegalConclusions": false,
+    "allowAiScenarioWording": true,
+    "requireSourceDate": true,
+    "requireProfessionalReviewRecord": true,
+    "requireCountryIndustryApplicability": true
+  }
+}

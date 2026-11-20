@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "lastReviewed": "2026-10-23",
+  "reviewStatus": "technical-source-review",
+  "purpose": "Player-confirmed public company profile enrichment for game scenarios",
+  "rules": [
+    "No lookup occurs without player opt-in.",
+    "GLEIF queries pass through a same-origin proxy, are not persisted by the game, and cannot target arbitrary upstream hosts.",
+    "The player must confirm the matched entity.",
+    "Public facts, game inference and player input must remain distinguishable.",
+    "Missing public data must not be treated as evidence that a fact is false.",
+    "Company profile data must not be used as a legal conclusion or allegation."
+  ],
+  "activeSources": [
+    {
+      "id": "wikidata",
+      "name": "Wikidata",
+      "api": "https://www.wikidata.org/w/api.php",
+      "documentation": "https://www.mediawiki.org/wiki/Wikibase/API",
+      "corsDocumentation": "https://www.mediawiki.org/wiki/API:Cross-site_requests",
+      "access": "anonymous-read",
+      "fields": [
+        "entity label",
+        "description",
+        "country",
+        "headquarters",
+        "industry",
+        "inception date",
+        "parent entity",
+        "employee count",
+        "official website"
+      ]
+    },
+    {
+      "id": "gleif",
+      "name": "Global Legal Entity Identifier Foundation LEI Data API",
+      "api": "https://api.gleif.org/api/v1/lei-records",
+      "documentation": "https://www.gleif.org/en/lei-data/gleif-lei-look-up-api/access-the-api",
+      "license": "CC0 1.0",
+      "access": "anonymous-read-via-same-origin-server-proxy",
+      "fields": [
+        "LEI",
+        "legal name",
+        "legal and headquarters address",
+        "jurisdiction",
+        "legal form",
+        "entity status",
+        "LEI registration status and dates"
+      ]
+    }
+  ],
+  "candidateSources": []
+}

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "1.0",
+  "jurisdiction": "Germany / Saxony / Dresden",
+  "lastVerified": "2026-10-22",
+  "reviewStatus": "source-verified-awaiting-professional-review",
+  "notice": "This registry supports contextual referrals in a simulation. It is not legal advice, an endorsement, or confirmation that an organisation will accept a case.",
+  "records": [
+    {
+      "id": "de-oecd-ncp",
+      "name": "German National Contact Point for the OECD Guidelines",
+      "category": "government-grievance-mediation",
+      "url": "https://www.bmwk.de/Redaktion/EN/Dossier/national-contact-point-ncp.html",
+      "themes": ["responsible-business-conduct", "human-rights", "supply-chain", "mediation"]
+    },
+    {
+      "id": "de-helpdesk-business-human-rights",
+      "name": "Helpdesk Wirtschaft & Menschenrechte",
+      "category": "public-business-advisory",
+      "url": "https://wirtschaft-entwicklung.de/wirtschaft-menschenrechte",
+      "themes": ["human-rights-due-diligence", "environmental-due-diligence", "remedy"]
+    },
+    {
+      "id": "saxony-babs",
+      "name": "Beratungsstelle für ausländische Beschäftigte in Sachsen (BABS)",
+      "category": "worker-advice",
+      "url": "https://sachsen.dgb.de/service/weiterer-service/babs/",
+      "themes": ["labour-rights", "foreign-workers", "social-law"]
+    },
+    {
+      "id": "de-faire-integration",
+      "name": "Faire Integration",
+      "category": "migrant-worker-advice",
+      "url": "https://www.faire-integration.de/en/",
+      "themes": ["labour-rights", "third-country-migrants", "social-law"]
+    },
+    {
+      "id": "de-external-reporting-office",
+      "name": "External Reporting Office at the Federal Office of Justice",
+      "category": "government-whistleblowing",
+      "url": "https://bundesjustizamt.de/DE/MeldestelledesBundes/HinweisgebendePerson/HinweisgebendePerson_node.html",
+      "themes": ["whistleblowing", "retaliation-prevention", "integrity"]
+    },
+    {
+      "id": "saxony-data-protection-commissioner",
+      "name": "Saxon Data Protection and Transparency Commissioner",
+      "category": "independent-regulator",
+      "url": "https://www.datenschutz.sachsen.de/beschwerde-einreichen.html",
+      "themes": ["data-protection", "employee-monitoring", "data-breach", "cross-border-transfer"]
+    },
+    {
+      "id": "dresden-environment-office",
+      "name": "City of Dresden Environment Office",
+      "category": "municipal-authority",
+      "url": "https://www.dresden.de/de/rathaus/aemter-und-einrichtungen/oe/dborg/stadt_dresden_6822.php",
+      "themes": ["water", "soil", "emissions", "local-permits"]
+    },
+    {
+      "id": "saxony-lfulg",
+      "name": "Saxon State Office for Environment, Agriculture and Geology",
+      "category": "state-technical-authority",
+      "url": "https://www.umwelt.sachsen.de/umweltinformationen-5001.html",
+      "themes": ["environmental-data", "geology", "nature-protection", "baseline"]
+    },
+    {
+      "id": "bund-saxony",
+      "name": "BUND Sachsen",
+      "category": "environmental-ngo",
+      "url": "https://www.bund-sachsen.de/ueber-uns/team/ansprechpartnerinnen/",
+      "themes": ["environment", "community-engagement", "remedy"]
+    },
+    {
+      "id": "nabu-dresden-meissen",
+      "name": "NABU Dresden-Meißen",
+      "category": "local-nature-ngo",
+      "url": "https://dresden.nabu-sachsen.de/service/kontakt/",
+      "themes": ["biodiversity", "site-selection", "habitat", "community-engagement"]
+    },
+    {
+      "id": "de-environmental-mediation",
+      "name": "Environmental mediation and conflict-management advisory service",
+      "category": "independent-mediation",
+      "url": "https://www.umweltmediation.info/beratung/verfahrensberatung/",
+      "themes": ["stakeholder-conflict", "mediation", "community-engagement"]
+    }
+  ]
+}

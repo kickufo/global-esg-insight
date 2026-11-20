@@ -1,0 +1,166 @@
+{
+ "version": 1,
+ "generated_on": "2026-11-19",
+ "rules": {
+  "primary": 1,
+  "secondary_max": 2
+ },
+ "tags": [
+  {
+   "id": "E01",
+   "pillar": "E",
+   "zh": "温室气体与气候",
+   "en": "GHG emissions & climate"
+  },
+  {
+   "id": "E02",
+   "pillar": "E",
+   "zh": "空气污染",
+   "en": "Air quality"
+  },
+  {
+   "id": "E03",
+   "pillar": "E",
+   "zh": "水资源与废水",
+   "en": "Water & wastewater"
+  },
+  {
+   "id": "E04",
+   "pillar": "E",
+   "zh": "废弃物与有害物质泄漏",
+   "en": "Waste & hazardous materials"
+  },
+  {
+   "id": "E05",
+   "pillar": "E",
+   "zh": "生物多样性与土地使用",
+   "en": "Biodiversity & land use"
+  },
+  {
+   "id": "E06",
+   "pillar": "E",
+   "zh": "重大环境事故",
+   "en": "Major environmental incident"
+  },
+  {
+   "id": "E07",
+   "pillar": "E",
+   "zh": "漂绿与环境声明不实",
+   "en": "Greenwashing / misleading environmental claims"
+  },
+  {
+   "id": "S01",
+   "pillar": "S",
+   "zh": "职业健康与安全",
+   "en": "Occupational health & safety"
+  },
+  {
+   "id": "S02",
+   "pillar": "S",
+   "zh": "劳动权益与薪酬",
+   "en": "Labour rights & wages"
+  },
+  {
+   "id": "S03",
+   "pillar": "S",
+   "zh": "强迫劳动与童工",
+   "en": "Forced & child labour"
+  },
+  {
+   "id": "S04",
+   "pillar": "S",
+   "zh": "歧视与骚扰",
+   "en": "Discrimination & harassment"
+  },
+  {
+   "id": "S05",
+   "pillar": "S",
+   "zh": "供应链劳工与人权",
+   "en": "Supply-chain labour & human rights"
+  },
+  {
+   "id": "S06",
+   "pillar": "S",
+   "zh": "社区关系与土地权益",
+   "en": "Community relations & land rights"
+  },
+  {
+   "id": "S07",
+   "pillar": "S",
+   "zh": "原住民权利",
+   "en": "Indigenous peoples' rights"
+  },
+  {
+   "id": "S08",
+   "pillar": "S",
+   "zh": "产品质量与安全（含召回）",
+   "en": "Product quality & safety"
+  },
+  {
+   "id": "S09",
+   "pillar": "S",
+   "zh": "消费者权益与营销",
+   "en": "Customer welfare & selling practices"
+  },
+  {
+   "id": "S10",
+   "pillar": "S",
+   "zh": "数据隐私",
+   "en": "Customer privacy"
+  },
+  {
+   "id": "S11",
+   "pillar": "S",
+   "zh": "网络安全事件",
+   "en": "Data security"
+  },
+  {
+   "id": "S12",
+   "pillar": "S",
+   "zh": "冲突地区与侵犯人权关联",
+   "en": "Conflict zones & human-rights abuses"
+  },
+  {
+   "id": "G01",
+   "pillar": "G",
+   "zh": "贿赂与腐败",
+   "en": "Bribery & corruption"
+  },
+  {
+   "id": "G02",
+   "pillar": "G",
+   "zh": "反垄断与不正当竞争",
+   "en": "Anti-competitive behaviour"
+  },
+  {
+   "id": "G03",
+   "pillar": "G",
+   "zh": "财务造假与信息披露违规",
+   "en": "Accounting fraud & disclosure violations"
+  },
+  {
+   "id": "G04",
+   "pillar": "G",
+   "zh": "内幕交易与市场操纵",
+   "en": "Insider trading & market manipulation"
+  },
+  {
+   "id": "G05",
+   "pillar": "G",
+   "zh": "洗钱与制裁违规",
+   "en": "AML & sanctions violations"
+  },
+  {
+   "id": "G06",
+   "pillar": "G",
+   "zh": "税务违规",
+   "en": "Tax evasion & aggressive tax practices"
+  },
+  {
+   "id": "G07",
+   "pillar": "G",
+   "zh": "公司治理与高管不当行为",
+   "en": "Governance failures & executive misconduct"
+  }
+ ]
+}

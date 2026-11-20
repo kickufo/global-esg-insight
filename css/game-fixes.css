@@ -1,0 +1,11 @@
+.g-hero h1 {
+  color: #fff;
+  text-shadow: 0 8px 36px rgba(0, 0, 0, 0.28);
+}
+
+@media (max-width: 560px) {
+  .g-hero h1 {
+    font-size: 44px;
+    line-height: 1.02;
+  }
+}

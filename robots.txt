@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /solutions/
+Sitemap: https://www.global-esg-insight.com/sitemap.xml
